@@ -12,6 +12,7 @@ I investigate how urban structure shapes local economies — linking street-leve
 **Background:**
   Architecture practice (Egypt, UAE) → computational design teaching (7 years, Bauhaus) → spatial research & urban data science                                                                                           
 
-📄 Co-author of the [DeCodingSpaces Toolbox](https://decodingspaces-toolbox.org) — Grasshopper plugin for urban spatial analysis                                                                                                                                                                                                                                                                                                                  
+📄 Co-author of the [DeCodingSpaces Toolbox](https://decodingspaces-toolbox.org) — Grasshopper plugin for urban spatial analysis
+
   ---                                                                                                                                                                                                                     
   🌍 AR · EN · DE 
