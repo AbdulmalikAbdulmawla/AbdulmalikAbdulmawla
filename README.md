@@ -5,7 +5,7 @@ I investigate how urban structure shapes local economies — linking street-leve
 **Currently:**
   - PhD candidate at [InfAR, Bauhaus-Universität Weimar](https://www.uni-weimar.de) — spatial dependency of urban retail
   - Research associate at the Chair of Transport System Planning — open mobility data & data science consulting (EDIH.TH)
-                                                                                                
+
 **Tools & methods:**                                                                                                                                                                                                    
   Python · C# · R · GIS · Network analysis · Agent-based simulation · Grasshopper
 
